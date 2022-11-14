@@ -1,7 +1,6 @@
 .place__website {
-  max-width: 456px;
-  width: 100%;
-  max-height: 456px;
-  height: 100%;
+  margin-bottom: 48px;
   border: solid 1px red;
-}
+  display: grid;
+  place-self: end start;
+} 

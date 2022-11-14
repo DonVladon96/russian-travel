@@ -5,4 +5,7 @@
   margin-top: 92px;
   margin-left: 148px;
   margin-right: 148px;
-}
+  display: grid;
+  row-gap: 80px;
+  border: solid 1px blue;
+}  
