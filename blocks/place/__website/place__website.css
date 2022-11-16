@@ -1,6 +1,5 @@
 .place__website {
   margin-bottom: 48px;
-  border: solid 1px red;
   display: grid;
   place-self: end start;
 } 

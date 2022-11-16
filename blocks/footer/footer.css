@@ -1,0 +1,7 @@
+.footer {
+  border: solid 1px rgb(0, 255, 247);
+  max-width: 1184px;
+  width: 100%;
+  margin: 0 48px 24px 48px;
+  display: flex;
+}

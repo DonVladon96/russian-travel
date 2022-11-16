@@ -4,5 +4,4 @@
   width: 100%;
   grid-column-gap: 40px;
   grid-template-columns: 460px 1fr;
-  border: solid 1px red;
 }

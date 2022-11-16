@@ -1,0 +1,10 @@
+.cover {
+  position: relative;
+  border: solid 1px red;
+  margin-top: 92px;
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-bottom: 92px;
+  max-width: 1184px;
+  width: 100%;
+}
