@@ -1,5 +1,16 @@
 .header__link_pick {
-    text-decoration: underline;
-    width: 30px;
-    height: 28px;
-  }
+  text-decoration: underline;
+  width: 30px;
+  height: 28px;
+}
+
+@media screen and (max-width: 320px) {
+.header__link_pick {
+  max-width: 22px;
+  max-height: 20px;
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+}
+}
+
