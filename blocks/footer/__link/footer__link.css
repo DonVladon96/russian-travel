@@ -5,5 +5,26 @@
   font-size: 16px;
   line-height: 18px;
   color: #FFFFFF;
-  border: solid 1px red;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1024px) {
+.footer__link {
+  font-size: 16px;
+  line-height: 18px;
+}
+}
+
+@media screen and (max-width: 768px) {
+.footer__link {
+  font-size: 16px;
+  line-height: 18px;
+}
+}
+
+@media screen and (max-width: 320px) {
+.footer__link {
+  font-size: 24px;
+  line-height: 24px;
+}
 }

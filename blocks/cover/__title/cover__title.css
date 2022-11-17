@@ -10,26 +10,25 @@
   margin-bottom: 32px;
   margin-left: 312px;
   margin-right: 312px;
-  border: solid 1px red;
   z-index: 1;
 }
 
-/* @media screen and (max-width: 1024px) {
-.intro__list {
-  max-width: 690px;
-  max-height: 429px;
-  margin-left: 48px;
-  margin-right: 286px;
+@media screen and (max-width: 1024px) {
+.cover__title {
+  margin-top: 195px;
+  margin-bottom: 32px;
+  margin-left: 232px;
+  margin-right: 232px;
 }
 }
 @media screen and (max-width: 768px) {
-.intro__list {
-  max-width: 720px;
-  max-height: 429px;
-  margin-left: 24px;
-  margin-right: 24px;
+.cover__title {
+  margin-top: 115px;
+  margin-bottom: 32px;
+  margin-left: 104px;
+  margin-right: 104px;
 }
-} */
+}
 
 @media screen and (max-width: 320px) {
 .cover__title {

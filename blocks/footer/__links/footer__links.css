@@ -4,3 +4,30 @@
   flex-direction: row;
   gap: 18px ;
 }
+
+
+/* @media screen and (max-width: 1024px) {
+.intro__list {
+  max-width: 690px;
+  max-height: 429px;
+  margin-left: 48px;
+  margin-right: 286px;
+}
+}
+@media screen and (max-width: 768px) {
+.intro__list {
+  max-width: 720px;
+  max-height: 429px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+} */
+
+@media screen and (max-width: 320px) {
+.footer__links {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 32px ;
+}
+}

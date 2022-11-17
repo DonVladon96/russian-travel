@@ -11,3 +11,29 @@
   margin-right: 412px;
   z-index: 1;
 }
+
+@media screen and (max-width: 1024px) {
+.cover__subtitle {
+  margin-bottom: 195px;
+  margin-left: 332px;
+  margin-right: 332px;
+}
+}
+
+@media screen and (max-width: 768px) {
+.cover__subtitle {
+  margin-bottom: 115px;
+  margin-left: 204px;
+  margin-right: 204px;
+}
+}
+
+@media screen and (max-width: 320px) {
+.cover__subtitle {
+  margin-bottom: 33px;
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 14px;
+  line-height: 16px;
+}
+}
