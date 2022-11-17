@@ -1,14 +1,13 @@
-.link-hover { 
-  cursor: pointer; 
-} 
+.link-hover {
+  cursor: pointer;
+}
 
 .link-hover:hover {
-  background:#2A2C2F; 
-  color: #ffffff; 
+  background:#2A2C2F;
   opacity: 1;
-  cursor: pointer; 
+  cursor: pointer;
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
   color: transparent;
   -webkit-text-stroke: 1.3px #000000;
-} 
+}
