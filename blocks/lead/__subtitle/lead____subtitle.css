@@ -33,9 +33,12 @@
 @media screen and (max-width: 320px) {
 .lead__subtitle {
   max-width: 288px;
+  max-height: 40px;
   margin-left: 16px;
   margin-right: 16px;
-  font-size: 40px;
-  line-height: 44px;
+  font-family: 'Inter';
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
 }
 }
