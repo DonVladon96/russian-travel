@@ -13,7 +13,7 @@
   padding: 0;
 }
 
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
 .intro__list {
   max-width: 690px;
   max-height: 429px;
@@ -28,7 +28,7 @@
   margin-left: 24px;
   margin-right: 24px;
 }
-} */
+}
 
 @media screen and (max-width: 320px) {
 .intro__list {
