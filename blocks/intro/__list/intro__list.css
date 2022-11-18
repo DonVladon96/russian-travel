@@ -13,14 +13,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 1024px) {
-.intro__list {
-  max-width: 690px;
-  max-height: 429px;
-  margin-left: 48px;
-  margin-right: 286px;
-}
-}
+
 @media screen and (max-width: 768px) {
 .intro__list {
   max-width: 720px;
