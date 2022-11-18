@@ -5,9 +5,6 @@
 .link-hover:hover {
   background:#2A2C2F;
   opacity: .8;
-  /* cursor: pointer;
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
-  color: transparent;
-  -webkit-text-stroke: 1.3px #000000; */
 }
