@@ -20,22 +20,20 @@
 @media screen and (max-width: 1024px) {
 .footer {
   max-width: 928px;
-  max-height: 18px;
-  margin: 0 48px 24px 48px;
+  margin: 0px 7px 0px 9px;
 }
 }
 @media screen and (max-width: 768px) {
 .footer {
-  margin: 88px 24px auto 24px;
-    max-width: 720px;
-    padding: 0;
+margin: 88px 24px auto 24px;
+  max-width: 720px;
+  padding: 0;
 }
 }
 
 @media screen and (max-width: 320px) {
 .footer {
   max-width: 186px;
-  max-height: 310px;
   margin-top: 0;
   margin-left: 16px;
   margin-right: 118px;

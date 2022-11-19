@@ -6,10 +6,11 @@
   margin-bottom: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  grid-column-gap: 16px;
-  grid-row-gap: 16px;
-  justify-items: center;
+  gap: 16px;
 }
+
+
+
 
 @media screen and (max-width: 1024px) {
 .photo-grid {
