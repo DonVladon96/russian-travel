@@ -20,10 +20,8 @@
 @media screen and (max-width: 768px) {
 .cover {
   position: relative;
-  margin-top: 90px;
   margin-left: 0;
   margin-right: 0;
-  margin-bottom: 88px;
   max-width: 768px;
   margin-top: 0;
   margin-bottom: 0;
