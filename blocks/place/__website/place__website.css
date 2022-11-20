@@ -14,9 +14,10 @@
 }
 }
 
-@media screen and (max-width: 582px) {
+
+@media screen and (max-width: 640px) {
 .place__website {
-  place-self: center center;
+  place-self: start start;
 }
 }
 

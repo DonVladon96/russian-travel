@@ -8,6 +8,8 @@
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
+  background-position: center;
+  box-sizing: border-box;
 }
 
 .cover__overlay::before {
@@ -28,16 +30,12 @@
 }
 
 @media screen and (max-width: 1024px) {
-.cover__overlay {
-  max-width: 1024px;
-  background-size: 1024px 640px;
+  .cover__overlay {
+    max-width: 1024px;
+    max-height: 640px;
+    background-size: 1024px 640px;
   }
-}
 
-@media screen and (max-width: 1184px) {
-  .cover__background {
-    min-height: 62vw;
-  }
 }
 
 @media screen and (max-width: 768px) {
