@@ -7,16 +7,18 @@
   max-width: 1184px;
 }
 
+
 @media screen and (max-width: 1024px) {
-.cover {
-  position: relative;
-  margin-top: 92px;
-  margin-left: 0;
-  margin-right: 0;
-  margin-bottom: 0;
-  max-width: 1024px;
-}
-}
+  .cover {
+    position: relative;
+    margin-top: 92px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    max-width: 1024px;
+  }
+  }
+
 @media screen and (max-width: 768px) {
 .cover {
   position: relative;
