@@ -19,5 +19,5 @@
 
 Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
 
-https://github.com/DonVladon96/russian-travel
+https://donvladon96.github.io/russian-travel/
 Удачи!
