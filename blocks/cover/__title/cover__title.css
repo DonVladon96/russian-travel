@@ -22,13 +22,27 @@
 
 }
 }
+
 @media screen and (max-width: 768px) {
-.cover__title {
-  margin-top: 115px;
-  margin-left: auto;
-  margin-right: auto;
-}
-}
+  .cover__title {
+    margin-top: 136px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  }
+
+@media screen and (max-width: 505px) {
+    .cover__title {
+    margin-top: 115px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: calc(14px + (18 - 14) * ((100vw - 320px) / (768 - 320)));
+     line-height: calc(16px + (22 - 16) * ((100vw - 320px) / (768 - 320)));
+     max-width: calc(288px + (360 - 288) * ((100vw - 320px) / (768 - 320)));
+    }
+    }
+
 
 @media screen and (max-width: 320px) {
 .cover__title {

@@ -6,3 +6,20 @@
   font-family: 'Inter', 'Arial', sans-serif;
   min-width: 320px;
 }
+
+@media screen and (max-width: 768px) {
+.page {
+padding: 24px;
+padding-left: 0;
+padding-right: 0;
+}
+}
+
+@media screen and (max-width: 321px) {
+  .page {
+  padding: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  }
+  }
+

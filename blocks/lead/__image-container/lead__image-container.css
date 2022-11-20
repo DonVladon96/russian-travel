@@ -2,3 +2,11 @@
   margin: 0;
   width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+.lead__image-container {
+  margin: 0;
+  width: 100vw;
+}
+}
+
