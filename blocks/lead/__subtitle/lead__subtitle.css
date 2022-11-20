@@ -15,11 +15,12 @@
 
 @media screen and (max-width: 1024px) {
 .lead__subtitle {
-   margin-left: 187px;
+  margin-left: 187px;
   margin-right: 192px;
   margin-bottom: 0;
 }
 }
+
 @media screen and (max-width: 768px) {
   .lead__subtitle {
     margin-left: auto;
@@ -31,11 +32,11 @@
 
 @media screen and (max-width: 380px) {
 .lead__subtitle {
-    font-size: calc(14px + (18 - 14) * ((100vw - 320px) / (768 - 320)));
-    line-height: calc(16px + (22 - 16) * ((100vw - 320px) / (768 - 320)));
-    max-width: calc(288px + (720 - 288) * ((100vw - 320px) / (768 - 320)));
-  }
-  }
+  font-size: calc(14px + (18 - 14) * ((100vw - 320px) / (768 - 320)));
+  line-height: calc(16px + (22 - 16) * ((100vw - 320px) / (768 - 320)));
+  max-width: calc(288px + (720 - 288) * ((100vw - 320px) / (768 - 320)));
+}
+}
 
 @media screen and (max-width: 325px) {
 .lead__subtitle {

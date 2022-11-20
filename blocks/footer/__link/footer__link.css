@@ -9,10 +9,10 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .footer__link {
-    line-height: 2px;
-  }
-  }
+.footer__link {
+  line-height: 2px;
+}
+}
 
 @media screen and (max-width: 320px) {
 .footer__link {
