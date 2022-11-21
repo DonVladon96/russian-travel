@@ -6,6 +6,15 @@
   min-width: 320px;
 }
 
+
+@media screen and (max-width: 1280px) {
+.page {
+  padding-top: 28px;
+}
+}
+
+
+
 @media screen and (max-width: 321px) {
 .page {
   padding-top: 13px;
