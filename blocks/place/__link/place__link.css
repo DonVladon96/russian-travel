@@ -5,5 +5,7 @@
   line-height: 22px;
   text-decoration-line: underline;
   color: #ffffff;
+  font-family: 'Inter', 'Arial', 'sans-serif';
+  max-width: 456px;
 }
 
