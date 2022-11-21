@@ -18,6 +18,7 @@
   margin-bottom: 48px;
   max-width: 928px;
   height: 100%;
+  width: calc(100% - 48px);
 }
 }
 
