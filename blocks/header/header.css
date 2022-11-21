@@ -24,7 +24,6 @@
   margin-bottom: 48px;
   max-width: 928px;
   height: 100%;
-  width: calc(100% - 48px);
 }
 }
 
@@ -34,7 +33,6 @@
   padding-bottom: 48px;
   padding-top: 4px;
   margin: 0 auto;
-  width: calc(100% - 48px);
 }
 }
 
