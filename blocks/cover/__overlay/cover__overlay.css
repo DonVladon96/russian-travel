@@ -2,8 +2,6 @@
   max-width: 1184px;
   text-decoration: none;
   background-image: url(../../../image/cover-trains.jpg);
-  background-size: 100%;
-  max-width: 1184px;
   width: 100%;
   min-height: 740px;
   background-repeat: no-repeat;
@@ -15,7 +13,7 @@
   margin: 0;
   padding: 0;
   color: #fff;
-  background-size: cover;
+  background-image: cover;
   align-items: center;
   position: relative;
   z-index: 1;
