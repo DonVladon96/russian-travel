@@ -41,5 +41,9 @@
   width: 100%;
   align-items: flex-start;
   margin-bottom: 50px;
+  gap: 0;
+}
+.place:nth-child(4) {
+  margin-bottom: 79px;
 }
 }

@@ -18,7 +18,7 @@
 @media screen and (max-width: 768px) {
 .places {
   max-width: 720px;
-  margin-top: 2px;
+  margin-top: 1px;
   margin-left: 24px;
   margin-right: 24px;
   padding-left: 0;
@@ -29,11 +29,8 @@
 
 @media screen and (max-width: 325px) {
 .places {
-  max-width: 320px;
-  width: 100%;
-  margin-top: 64px;
-  margin-left: 0;
-  margin-right: 0;
+  margin: 64px auto 0 auto;
   row-gap: 50px;
+  max-width: 320px;
 }
 }
