@@ -23,6 +23,8 @@
   grid-template-columns: 340px 1fr;
   margin-bottom: 71px;
 }
+
+
 }
 
 @media screen and (max-width: 640px) {
