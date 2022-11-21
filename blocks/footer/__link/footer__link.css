@@ -8,9 +8,17 @@
   font-family: 'Inter', 'Arial', 'sans-serif';
 }
 
+.header__link:hover {
+  opacity: 0.8;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-in;
+}
+
+
 @media screen and (max-width: 1024px) {
 .footer__link {
-  line-height: 2px;
+  line-height: 112%;
 }
 }
 

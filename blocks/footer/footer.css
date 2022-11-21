@@ -20,17 +20,17 @@
 .footer {
   max-width: 928px;
   margin: 0;
-  margin-top: 100px;
+  margin-top: 95px;
   padding-left: 50px;
+  align-items: baseline;
 }
 }
 
 @media screen and (max-width: 768px) {
 .footer {
-  margin: 79px 24px auto 24px;
+  margin: 90px 24px auto 24px;
   max-width: 720px;
   padding: 0;
-  flex-direction: column;
 }
 }
 
