@@ -9,3 +9,9 @@
   max-width: 456px;
 }
 
+.place__link:hover {
+  opacity: 0.8;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-in;
+}

@@ -2,8 +2,13 @@
   background: #2A2C2F;
   margin: 0 auto;
   padding-top: 28px;
-  padding-bottom: 24px;
   min-width: 320px;
+}
+
+@media screen and (max-width: 1024px) {
+.page {
+padding-bottom: 24px;
+}
 }
 
 @media screen and (max-width: 768px) {
