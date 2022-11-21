@@ -23,11 +23,9 @@
 max-width: 352px;
 font-size: 16px;
 line-height: 26px;
-}
-
-.place__paragraph:nth-child(2) {
-  margin-top: 25px;
-  font-size: 16px;
+font-size: 16px;
+max-width: 352px;
+gap: 25px;
 }
 }
 
@@ -36,7 +34,5 @@ line-height: 26px;
   max-width: 288px;
   font-size: 16px;
 }
-.place__paragraph:nth-child(2) {
-  margin-top: 25px;
 }
-}
+
