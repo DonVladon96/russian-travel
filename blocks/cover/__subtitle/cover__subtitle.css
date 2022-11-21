@@ -7,7 +7,7 @@
   max-width: 360px;
   margin: 0 auto;
   z-index: 1;
-  padding-bottom: 245px;
+  padding: 0;
   font-family: 'Inter', 'Arial', 'sans-serif';
   font-style: normal;
 }

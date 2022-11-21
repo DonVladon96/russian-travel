@@ -12,6 +12,14 @@
   justify-content: center;
   background-position: center;
   box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background-size: cover;
+  align-items: center;
+  position: relative;
+  z-index: 1;
 }
 
 .cover__overlay::before {
@@ -23,6 +31,7 @@
   top: 0;
   background-color:#2A2C2F;
   opacity: 0.3;
+  z-index: -1;
 }
 
 .cover__overlay:hover::before {
