@@ -23,9 +23,6 @@
   grid-template-columns: 340px 1fr;
   margin-bottom: 73px;
 }
-.place:nth-child(4){
-  margin-bottom: 48px;
-}
 }
 
 @media screen and (max-width: 640px) {
@@ -38,8 +35,6 @@
 
 @media screen and (max-width: 325px) {
 .place {
-  display: flex;
-  flex-direction: column;
   max-width: 320px;
   width: 100%;
   align-items: flex-start;
