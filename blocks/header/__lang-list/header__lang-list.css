@@ -19,3 +19,11 @@
   padding-top: 16px;
 }
 }
+
+@media screen and (max-width: 325px) {
+  .header__lang-list {
+  padding-top: 0;
+  margin-top: 0;
+}
+}
+
